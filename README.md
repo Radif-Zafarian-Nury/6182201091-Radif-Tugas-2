@@ -14,7 +14,7 @@ Sisa soal:
 
 15. Masukkin audio untuk gamenya pastiin semua komponen beraudio termasuk click button (pastiin semua component ada SFX)
 
-23. Bikin tampilan informasi, isinya Nama + NPM kalian, bisa dibuka dari home. :white_check_mark: ?
+23. Bikin tampilan informasi, isinya Nama + NPM kalian, bisa dibuka dari home. :white_check_mark: 
 
 26. Bikin jenis pipa baru yang bisa bergerak atas dan bawah. :pencil:
 
